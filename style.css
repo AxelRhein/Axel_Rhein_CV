@@ -35,7 +35,7 @@ img{
 
 header > h1 {
     border: 6px solid black;
-    background:#9fa3a37e;
+    background:#e7e7e77e;
     box-shadow: 5px 5px 5px #000000;
     margin: 5px 10px 5px 55px;
     display: flex;
@@ -95,7 +95,7 @@ footer{
 }
 
 nav,main,footer{
-    background: #907e99;
+    background: #99929d;
     border: 2px solid black;
     box-shadow: 5px 10px 8px #000000;
 }
