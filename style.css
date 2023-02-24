@@ -115,6 +115,7 @@ h2{
 }
 article p{
     line-height: 40px;
+    text-transform: uppercase;
 }
 p.formal{
     text-align:center;
